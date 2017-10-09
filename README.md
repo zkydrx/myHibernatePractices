@@ -1,0 +1,2 @@
+# myHibernatePractices
+Hibernate Practices
